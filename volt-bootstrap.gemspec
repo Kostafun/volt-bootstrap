@@ -6,11 +6,11 @@ version = File.read(File.expand_path('../VERSION', __FILE__)).strip
 
 
 Gem::Specification.new do |spec|
-  spec.name          = "volt-bootstrap"
+  spec.name          = "volt-materialize"
   spec.version       = version
-  spec.authors       = ["Ryan Stout"]
-  spec.email         = ["ryanstout@gmail.com"]
-  spec.summary       = %q{Twitter Bootstrap for the volt framework}
+  spec.authors       = ["Kostafun"]
+  spec.email         = ["Kostafun@gmail.com"]
+  spec.summary       = %q{Materializecss for the volt framework}
   spec.homepage      = ""
   spec.license       = "MIT"
 
